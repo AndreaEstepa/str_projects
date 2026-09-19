@@ -1,0 +1,81 @@
+V "GNAT Lib v3.13 "
+A -g
+P
+R nnvvnnvvnnnnvvvvnvvvnnnnvnnvnnvnnnnnnnnnnnn
+
+U paq_tareas%b		paq_tareas.adb		4B57D51A PK
+W ada.calendar.delays%s	a-caldel.adb		a-caldel.ali
+W ada.exceptions%s	a-except.adb		a-except.ali
+W kernel%s		kernel.ads		kernel.ali
+W kernel.serial_output%s  kernel-serial_output.adb  kernel-serial_output.ali  ED
+W paq_datos%s		paq_datos.adb		paq_datos.ali  ED
+W system.img_int%s	s-imgint.adb		s-imgint.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+
+U paq_tareas%s		paq_tareas.ads		6D394630 PK
+W system%s		system.ads		system.ali
+W system.parameters%s	s-parame.adb		s-parame.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.task_info%s	s-tasinf.adb		s-tasinf.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+
+D ada.ads		20000718095948 2359F9ED
+D a-calend.ads		20000718095948 0E1F0C88
+D a-caldel.ads		20000718095948 6E8ED3D1
+D a-except.ads		20000718095948 287FCF69
+D a-finali.ads		20000718095948 3F32DEEF
+D a-filico.ads		20000718095948 1DECB9AC
+D a-stream.ads		20000718095948 5F7C277B
+D a-tags.ads		20000718095948 45EF7E4E
+D kernel.ads		20010312182047 56BBE4F1
+D kernel-cpu_primitives.ads  20010312182047 5746D7AD
+D kernel-parameters.ads	20010312182047 0D1B8F78
+D kernel-serial_output.ads  20010312182047 16AD38F4
+D kernel-threads.ads	20010312182047 234DAE87
+D kernel-time.ads	20010312182047 7A57ECF4
+D paq_datos.ads		20260919113304 5AA14FDE
+D paq_tareas.ads	20260919104505 6D394630
+D paq_tareas.adb	20260919104505 6A62E400
+D system.ads		20010312182047 2AE5BAFE
+D s-exctab.ads		20000718095948 7A25F5F9
+D s-finimp.ads		20000718095949 1C201C0F
+D s-finroo.ads		20000718095949 166D4EDA
+D s-imgint.ads		20000718095949 21B5CB31
+D s-parame.ads		20000718095949 25FE086A
+D s-secsta.ads		20000718095949 60A2A5CD
+D s-soflin.ads		20000718095949 006B24D7
+D s-stache.ads		20000718095949 42B57F2A
+D s-stalib.ads		20000718095949 438B3864
+D s-stoele.ads		20000718095949 131D4539
+D s-stratt.ads		20000718095949 1761725B
+D s-tasinf.ads		20000718095949 0F7BBEC5
+D s-taspri.ads		20010312182047 3235B2AC
+D s-taskin.ads		20000718095949 09146F23
+D s-taprob.ads		20000718095949 1D5668B3
+D s-tassta.ads		20000718095949 72B0D55C
+D s-unstyp.ads		20000718095949 78AFB91D
+D unchconv.ads		20000718095949 72DC4539
+X 9 kernel.ads
+36U9*Kernel 17|1r6 1r32
+X 12 kernel-serial_output.ads
+36U16*Serial_Output 17|1r13 1r39
+41U14*Put 17|23r10
+43U14*New_Line 17|25r7
+49U14*Put_Line 17|20r7 28r4
+X 15 paq_datos.ads
+1U9*Paq_Datos 17|2r6 2r21 7r7 13r7 21r16 22r15
+2I12*DiaMes 17|21r26
+5w14*Datos 17|7r17 13r17 22r25
+6U17 Incrementar 17|7r23
+7U17 Modificar 17|13r23
+8U16 Leer 17|22r31
+X 16 paq_tareas.ads
+1U9*Paq_Tareas 17|4b14
+2t9*T_Incrementa
+3t9*T_Modifica
+4t9*T_Lee
+X 17 paq_tareas.adb
+17i7 k 22m10 23r28
+21i11 i 22r36
+
